@@ -1,3 +1,3 @@
 hello world
 local uapate
-test rule
+test a rule
